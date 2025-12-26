@@ -31,6 +31,36 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <li>Now download Kali: https://www.kali.org/</li>
 <li>once you select download, be sure to choose the Virtual Machines platform</li>
 <img width="1012" height="563" alt="image" src="https://github.com/user-attachments/assets/96489f7a-dbef-4348-b935-51937843e8c9" />
+<li>click the download arrow on VNware</li>
+<img width="1227" height="570" alt="image" src="https://github.com/user-attachments/assets/6fb8af38-9993-48f9-8805-25e0eff659cb" />
+<li>Hopefully, the windows 10 vm download is now complete, so click Finish</li>
+<img width="860" height="541" alt="image" src="https://github.com/user-attachments/assets/d5a62d7d-b447-45bb-92c8-fa52f93c6904" />
+<li>Next, open VMware and select Create a New Virtual Machine</li>
+<img width="1481" height="716" alt="image" src="https://github.com/user-attachments/assets/efcce034-5dc0-42ce-be02-c1c4c148b2f7" />
+<img width="1080" height="627" alt="image" src="https://github.com/user-attachments/assets/1fd93b3c-73f1-40e9-962b-ca196f34e7ab" />
+
+<li>select Custom, and next to get to the installer disc image option. Browse your Download folder and select the win10 ISO</li>
+<img width="992" height="648" alt="image" src="https://github.com/user-attachments/assets/1eb60977-a44b-432c-a759-58dd241a2672" />
+<li>click next and give a name to your VM. Then next, next, and next</li>
+<li>increase RAM to 4GB, next</li>
+<img width="1165" height="692" alt="image" src="https://github.com/user-attachments/assets/be4b499d-2953-46c7-918a-bd6c16e75805" />
+<li>NAT is fine, next</li>
+<img width="1087" height="608" alt="image" src="https://github.com/user-attachments/assets/97cf6b5c-0af1-4d45-bc0e-0f83001a339f" />
+<li>click through the next defaults and then create a new virtual disk</li>
+<img width="987" height="636" alt="image" src="https://github.com/user-attachments/assets/809da32e-d817-4036-a5f2-f73216c6d218" />
+<li>the default size is fine, next</li>
+<img width="985" height="637" alt="image" src="https://github.com/user-attachments/assets/25d59e87-c215-4de2-8fb0-f297b75fc58f" />
+<li>next, next, then finish</li>
+<img width="1122" height="643" alt="image" src="https://github.com/user-attachments/assets/c21e2688-caaa-45f7-af6e-84e463649fd6" />
+<img width="1145" height="706" alt="image" src="https://github.com/user-attachments/assets/24405b34-acbd-4d38-a5cf-fe0de3859a2b" />
+
+<li>Next, let's launch the Ubuntu ISO</li>
+<li>this is essentially a repeat process of the windows 10 VM except the image will be the Ubuntu download instead</li>
+<img width="1030" height="365" alt="image" src="https://github.com/user-attachments/assets/e2284c25-d997-4a7d-aa2a-3a4e89ae71c9" />
+
+
+
+
 
 
 
