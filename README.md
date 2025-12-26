@@ -74,6 +74,24 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <li>double-click it and it should automatically import and launch in VMware</li>
 <img width="1483" height="682" alt="image" src="https://github.com/user-attachments/assets/726e91d4-6122-4fd0-a901-9a55b0011940" />
 
+<li>Now let's finish the Win10 VM setup</li>
+<li>select next, install now, no product key. next</li>
+<img width="970" height="582" alt="image" src="https://github.com/user-attachments/assets/77d07dd5-eeea-4900-aef9-68f488e9742d" />
+<li>select Windows 10 Pro, accept the license, custom install, next</li>
+<img width="883" height="536" alt="image" src="https://github.com/user-attachments/assets/b631e8e5-5597-43cb-a6fa-c46eeb5cece2" />
+<img width="930" height="463" alt="image" src="https://github.com/user-attachments/assets/324dd86d-ccfb-4c98-a9aa-86b4bca85123" />
+
+<li>While that's booting up, let's now tackle the Ubuntu</li>
+<img width="1210" height="598" alt="image" src="https://github.com/user-attachments/assets/2aa3fee7-628a-4671-b403-8fbe1e3d6363" />
+
+
+
+
+
+
+
+
+
 
 
 
