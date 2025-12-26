@@ -57,6 +57,33 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <li>Next, let's launch the Ubuntu ISO</li>
 <li>this is essentially a repeat process of the windows 10 VM except the image will be the Ubuntu download instead</li>
 <img width="1030" height="365" alt="image" src="https://github.com/user-attachments/assets/e2284c25-d997-4a7d-aa2a-3a4e89ae71c9" />
+<li>for the name, you might want to include Splunk in the title as this will be where we launch the Splunk instance</li>
+<img width="803" height="332" alt="image" src="https://github.com/user-attachments/assets/69ce7427-f6e4-4031-8ede-fc927db55eb8" />
+<li>increase RAM to 8GB, and increase disk size to 100GB. Next, next, finish</li>
+<img width="825" height="585" alt="image" src="https://github.com/user-attachments/assets/cf988736-cc41-4285-8d48-694fce5cc70e" />
+
+<li>We will repeat the same process for creating a new virtual machine using the same Ubuntu download for our n8n instance</li>
+<img width="832" height="585" alt="image" src="https://github.com/user-attachments/assets/68b0f2f5-44c3-4ec9-b161-f3a001a74dca" />
+<li>accept the defaults but increase disk size to 50. Next, next, Finish</li>
+<img width="920" height="617" alt="image" src="https://github.com/user-attachments/assets/47ad42ef-3e03-4589-99e7-5529c4fb76ab" />
+
+<li>And now, Kali</li>
+<li>unzip the Kali download</li>
+<li>you want the file with the .vmx extention (enable file name extentions if you don't see it)</li>
+<img width="848" height="152" alt="image" src="https://github.com/user-attachments/assets/59da0a42-cf24-426b-ba5b-c731764b44e9" />
+<li>double-click it and it should automatically import and launch in VMware</li>
+<img width="1483" height="682" alt="image" src="https://github.com/user-attachments/assets/726e91d4-6122-4fd0-a901-9a55b0011940" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
