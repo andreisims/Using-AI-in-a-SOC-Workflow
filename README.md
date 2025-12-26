@@ -94,6 +94,29 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <img width="1395" height="800" alt="image" src="https://github.com/user-attachments/assets/5635106c-7cfe-4b45-93b3-6a4efcd7d72c" />
 
 <li>And we will do the same for the n8n VM</li>
+<img width="1365" height="507" alt="image" src="https://github.com/user-attachments/assets/4c483fbf-bcac-4fd9-b7d6-6e6f56978769" />
+<img width="1412" height="418" alt="image" src="https://github.com/user-attachments/assets/fc5f1149-6f39-4824-9a1a-b517fd4f6ba9" />
+
+<li>let's finish the win10 setup</li>
+<img width="1182" height="687" alt="image" src="https://github.com/user-attachments/assets/fc0cf9cf-bd2e-4160-94fd-0fc104924c5f" />
+<img width="1193" height="596" alt="image" src="https://github.com/user-attachments/assets/80354d4a-4e38-47cd-a5da-3346fdda7c60" />
+
+<li>and also Splunk</li>
+<img width="1227" height="625" alt="image" src="https://github.com/user-attachments/assets/a2ad222f-7605-4724-835e-3a708d17a36c" />
+<li>hopefully, you notated your text editor with your login details</li>
+<img width="1352" height="500" alt="image" src="https://github.com/user-attachments/assets/8e5634eb-d35f-4525-85b1-9ea3103da859" />
+<li>make note of the VM's ip</li>
+<img width="1075" height="300" alt="image" src="https://github.com/user-attachments/assets/69a76b90-fce1-42c0-9e87-9cc49abe2ede" />
+<li>now open command prompt on your host pc and SSH into Splunk</li>
+<img width="1237" height="443" alt="image" src="https://github.com/user-attachments/assets/7f7b0852-8dca-4ab4-8a00-374476b6ab99" />
+
+
+
+
+
+
+
+
 
 
 
