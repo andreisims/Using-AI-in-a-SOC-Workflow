@@ -25,6 +25,16 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <img width="906" height="576" alt="image" src="https://github.com/user-attachments/assets/5cd6a519-d185-4f7e-b9b0-a423694276b5" />
 <li>save file to Downloads folder. Process may take several minutes</li>
 <img width="942" height="500" alt="image" src="https://github.com/user-attachments/assets/c7ba79ee-a743-40e5-bfd6-34d7332e42fd" />
+<li>While waiting for that download to complete, let's start on the next installation: Ubuntu https://ubuntu.com/</li>
+<li>select Products, Ubuntu Server, and click download</li>
+<img width="1117" height="502" alt="image" src="https://github.com/user-attachments/assets/74155db2-9354-42c3-bda6-009dbc9d9629" />
+<li>Now download Kali: https://www.kali.org/</li>
+<li>once you select download, be sure to choose the Virtual Machines platform</li>
+<img width="1012" height="563" alt="image" src="https://github.com/user-attachments/assets/96489f7a-dbef-4348-b935-51937843e8c9" />
+
+
+
+
 
 
 
