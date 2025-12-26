@@ -83,6 +83,23 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 
 <li>While that's booting up, let's now tackle the Ubuntu</li>
 <img width="1210" height="598" alt="image" src="https://github.com/user-attachments/assets/2aa3fee7-628a-4671-b403-8fbe1e3d6363" />
+<li>except all the defaults and select continue on the storage configurations</li>
+<img width="1311" height="642" alt="image" src="https://github.com/user-attachments/assets/96b0f6f9-9d32-4451-b253-b73c91ed3fe6" />
+<li>complete your profile</li>
+<img width="1336" height="412" alt="image" src="https://github.com/user-attachments/assets/b4fea39d-08ca-4bc5-86a2-a224c270b95a" />
+<img width="1328" height="420" alt="image" src="https://github.com/user-attachments/assets/0833ec53-63d4-408b-a853-aded78fc2f23" />
+<li>Be sure to install the OpenSSH server</li>
+<img width="1217" height="362" alt="image" src="https://github.com/user-attachments/assets/6330d8e5-d4f0-4758-9459-69e567ef1d71" />
+<li>and reboot</li>
+<img width="1395" height="800" alt="image" src="https://github.com/user-attachments/assets/5635106c-7cfe-4b45-93b3-6a4efcd7d72c" />
+
+<li>And we will do the same for the n8n VM</li>
+
+
+
+
+
+
 
 
 
