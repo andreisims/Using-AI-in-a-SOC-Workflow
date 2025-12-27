@@ -194,6 +194,18 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <img width="1676" height="233" alt="image" src="https://github.com/user-attachments/assets/51b11bbe-8aa2-4d40-b776-06bc183bc179" />
 <li>now Settings> Indexes> click got it> New Index</li>
 <img width="850" height="816" alt="image" src="https://github.com/user-attachments/assets/d92769dd-104f-4abb-adf3-48d7db7ac47d" />
+<li>Name it, then save it</li>
+<img width="886" height="826" alt="image" src="https://github.com/user-attachments/assets/81f56a92-a455-4dca-a85d-a2c7b26c0160" />
+<li>Lastly: Apps> Find More Apps> then search for Windows Events</li>
+<img width="1611" height="581" alt="image" src="https://github.com/user-attachments/assets/4e4b5526-a0bd-49c4-a904-19cd539d1906" />
+<li>select install for the Splunk Add-on for Microsoft Windows and then sign in with your Splunk account details (the one used to download Splunk from its website)</li>
+<img width="785" height="337" alt="image" src="https://github.com/user-attachments/assets/5687a636-4e3a-4d3d-a840-7da77efca38a" />
+
+
+
+
+
+
 
 
 
