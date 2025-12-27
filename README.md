@@ -312,6 +312,12 @@ Windows Server 2019, 2022, 2025'</li>
 
 ### Now Let's Build The Automation in n8n
 <li>ALERT: credits are needed for OpenAI</li>
+<li>First: let's disable the alert for now in Splunk</li>
+<img width="937" height="272" alt="image" src="https://github.com/user-attachments/assets/834c411d-d59f-4b1e-9043-623072c0a77f" />
+<li>On n8n, the workflow has been pinned for future use</li>
+<img width="1188" height="465" alt="image" src="https://github.com/user-attachments/assets/ec02dbb4-9dcd-479f-bbab-74cdf6be48cb" />
+
+
 
 
 
