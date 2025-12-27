@@ -153,6 +153,24 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <li>provide a name for the snapshot, and select take snapshot</li>
 <img width="887" height="455" alt="image" src="https://github.com/user-attachments/assets/27d20e0a-8595-4385-8481-8dd935ada51b" />
 
+<li>now let's SSH into splunk VM from the command line (CMD) so that we can download and install splunk https://www.splunk.com/</li>
+<img width="1157" height="621" alt="image" src="https://github.com/user-attachments/assets/b92c4b33-767e-4e3f-a678-157eae00388e" />
+<li>sign in or create an account</li>
+<img width="1202" height="487" alt="image" src="https://github.com/user-attachments/assets/1bb223fd-874c-4a84-ba3d-ceef14e51aff" />
+<li>go to Trials and Downloads> Splunk Enterprise> start trial</li>
+<img width="1147" height="522" alt="image" src="https://github.com/user-attachments/assets/dd7e9109-a7b0-4884-bd3e-6ab3c2e45777" />
+<li>select the Linux package (.deb file) using the wget link</li>
+<img width="1297" height="421" alt="image" src="https://github.com/user-attachments/assets/fe2bcb53-8310-4701-8526-c10304e6bf59" />
+<li>copy and paste it into the command line</li>
+<img width="1513" height="175" alt="image" src="https://github.com/user-attachments/assets/f6d3b49d-44a5-40cc-b180-a2d5a23d708c" />
+
+
+
+
+
+
+
+
 
 
 
