@@ -277,6 +277,15 @@ Windows Server 2019, 2022, 2025'</li>
 <img width="963" height="911" alt="image" src="https://github.com/user-attachments/assets/5d9946ad-eba9-4c63-bc15-6e9b5f1629e1" />
 
 ### Create an Alert in Splunk that the n8n Webhook Can Catch
+<li>Rollback protocol first, take a snapshot of n8n</li>
+<img width="1372" height="605" alt="image" src="https://github.com/user-attachments/assets/e8bae620-0d66-4f05-b9f5-ac21d7a1c481" />
+<li>now let's create the alert. Go to the Splunk dashboard and create an alert for Brute Force attempts</li>
+<li>create a new search by adding EventID=4625 to the existing search and click the magnifying glass</li>
+<li>no results</li>
+<img width="1907" height="317" alt="image" src="https://github.com/user-attachments/assets/fdb539aa-3d22-4dbd-9bef-2e1900c67adc" />
+<li>Troubleshooting: either we have not generated any brute force attempts yet or the fieldname is incorrect</li>
+
+
 
 
 
