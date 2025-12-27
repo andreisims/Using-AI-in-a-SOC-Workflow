@@ -294,10 +294,14 @@ Windows Server 2019, 2022, 2025'</li>
 <img width="1475" height="478" alt="image" src="https://github.com/user-attachments/assets/68a22e05-86da-45ea-a167-efa1a46bb90c" />
 <li>now update the search using EventCode=4625, and it is case-sensitive. And VIOLA!!</li>
 <img width="1887" height="852" alt="image" src="https://github.com/user-attachments/assets/bf22b0c0-32a2-45e1-bbfc-28e405aa609c" />
-<li>And let's double check by generating some failed login attemps via RDP (4 times)</li>
+<li>And let's double check by generating some failed login attemps via RDP (4 times). I was considering using Kali Linux but that might be too resource intensive right now. We can always use it later for additional tasks</li>
 <img width="828" height="455" alt="image" src="https://github.com/user-attachments/assets/3b868441-22a1-4317-9ad8-2e4fefd5b92a" />
-<li>and here those brute force attempts</li>
+<li>and here are those brute force attempts</li>
 <img width="1681" height="770" alt="image" src="https://github.com/user-attachments/assets/f4ef9e67-d9a8-4535-8e44-a5c18131347c" />
+<li>now let's clean up the visualization by entering the following in the search field. And this will only work after installing the Splunk Add-on for Microsoft Windows app</li>
+<img width="1862" height="562" alt="image" src="https://github.com/user-attachments/assets/f8cf2a7e-1d65-4910-b82d-f2c4d4bed17d" />
+
+
 
 
 
