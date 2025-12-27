@@ -239,6 +239,16 @@ Windows Server 2019, 2022, 2025'</li>
 <li>Viola! Telemetry</li>
 <img width="1783" height="767" alt="image" src="https://github.com/user-attachments/assets/4661c6b4-283a-41fd-8738-994a154461d9" />
 
+<li>Now for the part you have all been waiting for: n8n</li>
+<li>SSH into the n8n/Ubuntu server</li>
+<img width="1160" height="741" alt="image" src="https://github.com/user-attachments/assets/90222020-267b-4b0f-8669-ef245d0ff320" />
+<li>to install it, we'll be using Docker. Type 'sudo apt install docker.io', and enter 'y'</li>
+<img width="1171" height="386" alt="image" src="https://github.com/user-attachments/assets/c3b0c965-221f-4bc5-a995-8ab731d39675" />
+<img width="1281" height="565" alt="image" src="https://github.com/user-attachments/assets/8dab4e89-2561-4e94-a0fc-d2776ec51efd" />
+
+
+
+
 
 
 
