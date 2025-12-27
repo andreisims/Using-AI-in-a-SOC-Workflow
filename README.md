@@ -187,6 +187,16 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <img width="1210" height="148" alt="image" src="https://github.com/user-attachments/assets/82df6d25-1c1e-45bf-a9fb-4d2026516bde" />
 <li>with that, splunk should now start whenever the VM is started. We should also be able to access the GUI using splunk's IP and the default port of 8000. Viola!</li>
 <img width="1766" height="780" alt="image" src="https://github.com/user-attachments/assets/ec1243c8-580a-446d-af29-72e6ebf97a8c" />
+<li>Now sign in with your Splunk username and password</li>
+<img width="1873" height="817" alt="image" src="https://github.com/user-attachments/assets/eda36d89-7ad7-443a-80b9-a267242e4a35" />
+<li>Let's make some configuration changes: Settings> Forwarding and Receiving> Configure Receiving> New Receiving Port> and enter the default port of 9997. click save</li>
+<img width="1075" height="311" alt="image" src="https://github.com/user-attachments/assets/91ce9751-7e89-4912-a5bd-e543cdee92ed" />
+<img width="1676" height="233" alt="image" src="https://github.com/user-attachments/assets/51b11bbe-8aa2-4d40-b776-06bc183bc179" />
+<li>now Settings> Indexes> click got it> New Index</li>
+<img width="850" height="816" alt="image" src="https://github.com/user-attachments/assets/d92769dd-104f-4abb-adf3-48d7db7ac47d" />
+
+
+
 
 
 
