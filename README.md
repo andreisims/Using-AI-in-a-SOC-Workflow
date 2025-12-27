@@ -299,7 +299,19 @@ Windows Server 2019, 2022, 2025'</li>
 <li>and here are those brute force attempts</li>
 <img width="1681" height="770" alt="image" src="https://github.com/user-attachments/assets/f4ef9e67-d9a8-4535-8e44-a5c18131347c" />
 <li>now let's clean up the visualization by entering the following in the search field. And this will only work after installing the Splunk Add-on for Microsoft Windows app</li>
-<img width="1862" height="562" alt="image" src="https://github.com/user-attachments/assets/f8cf2a7e-1d65-4910-b82d-f2c4d4bed17d" />
+<img width="1671" height="576" alt="image" src="https://github.com/user-attachments/assets/9e39f63c-cd65-4dc5-a227-3c1f2205c021" />
+<li>Now save this alert. Click Save As> Alert> provide a name for it. You can keep all the defaults but set the schedule to run on chron. Replace the Expression (0 6 * * 1) to all asterisks (* * * * *) so that it'll every minute. Under Trigger Actions, select Add to Triggered Alerts and Webhook. For the webhook URL, use the n8n. To do so, go to n8n dashboard and click 'Start from Scratch', Add First Step, then search for Webhook</li>
+<img width="1817" height="576" alt="image" src="https://github.com/user-attachments/assets/3fc1f12a-73b1-4225-a52d-da3b6a2a6462" />
+<li>select Webhook (starts the workflow...). Change the http method from GET to POST, then copy and paste the URL into Splunk Alert</li>
+<img width="1566" height="763" alt="image" src="https://github.com/user-attachments/assets/6832bf91-051a-46e6-adbc-a40e4609ded5" />
+<img width="1066" height="842" alt="image" src="https://github.com/user-attachments/assets/bae9d4f0-e2e0-4b98-bac8-d70e047292e5" />
+<li>click Save and View Alert</li>
+<img width="1292" height="295" alt="image" src="https://github.com/user-attachments/assets/61f1c6c6-ed7d-4b5b-b75f-bd6188dea832" />
+
+
+
+
+
 
 
 
