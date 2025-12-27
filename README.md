@@ -109,6 +109,11 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <img width="1075" height="300" alt="image" src="https://github.com/user-attachments/assets/69a76b90-fce1-42c0-9e87-9cc49abe2ede" />
 <li>now open command prompt on your host pc and SSH into Splunk</li>
 <img width="1237" height="443" alt="image" src="https://github.com/user-attachments/assets/7f7b0852-8dca-4ab4-8a00-374476b6ab99" />
+<img width="1088" height="492" alt="image" src="https://github.com/user-attachments/assets/2e01f034-2442-4385-a30b-883bd8989c4a" />
+<li>now enter 'sudo apt-get update && sudo apt-get upgrade -y'</li>
+<img width="1323" height="630" alt="image" src="https://github.com/user-attachments/assets/95d821da-3992-461f-a754-89283c62f0c0" />
+
+
 
 
 
