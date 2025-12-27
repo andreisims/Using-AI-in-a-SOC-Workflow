@@ -118,12 +118,34 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <li>select the personal use option, then offline account, and then limited experience</li>
 <img width="1102" height="512" alt="image" src="https://github.com/user-attachments/assets/960a9baa-2d2b-49c5-a62b-408d4fffbac5" />
 <img width="1145" height="713" alt="image" src="https://github.com/user-attachments/assets/2552ebd9-a35a-460c-affd-2244d2e4cc16" />
-<li>create your personal, details can be fictional but remember/write down the password</li>
+<li>create your personal profile, details can be fictional but remember/write down the password</li>
 <img width="1127" height="710" alt="image" src="https://github.com/user-attachments/assets/c3de7b26-7803-4f2a-931b-c105d84761b9" />
 <img width="1155" height="652" alt="image" src="https://github.com/user-attachments/assets/1d01a526-500e-4909-a968-acd1e5f3f26c" />
 <li>skip the customization and Cortana options</li>
 <img width="1121" height="658" alt="image" src="https://github.com/user-attachments/assets/3f325959-5fd0-479f-995c-597a7c0f35ce" />
 <img width="1192" height="753" alt="image" src="https://github.com/user-attachments/assets/f25e4865-c858-4bd1-ac8f-e6587c8fc217" />
+
+<li>Let's check on the n8n server (Ubuntu)</li>
+<img width="1531" height="576" alt="image" src="https://github.com/user-attachments/assets/c9a6c18d-0d73-4129-a43c-b5478410d6ac" />
+<li>Ater logging in, we will enter the same 'sudo apt-get update && sudo apt-get upgrade -y' commands</li>
+<img width="1195" height="388" alt="image" src="https://github.com/user-attachments/assets/299023f0-1553-4811-8ed8-1e1b65801790" />
+<li>Our n8n server is now up to date</li>
+
+<li>Back on windows, go to the remote desktop settings</li>
+<img width="1132" height="518" alt="image" src="https://github.com/user-attachments/assets/69e3ab32-d75e-4855-8f9e-d55ecc30c66f" />
+<li>enable the remote desktop setting</li>
+<img width="963" height="487" alt="image" src="https://github.com/user-attachments/assets/c6fca97b-3088-4696-9df1-9ce77f2686c1" />
+<li>open the command prompt (cmd)</li>
+<img width="1221" height="812" alt="image" src="https://github.com/user-attachments/assets/ebd9e491-2707-455d-b6df-44e73e6fd7cc" />
+<li>type ipconfig to obtain the win10 IP address</li>
+<img width="943" height="380" alt="image" src="https://github.com/user-attachments/assets/c2e1030d-ddf7-4937-a149-976fe6cdfeba" />
+<li>notate it as we will be getting the other IPs as well</li>
+
+
+
+
+
+
 
 
 
