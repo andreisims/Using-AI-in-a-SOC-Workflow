@@ -284,6 +284,26 @@ Windows Server 2019, 2022, 2025'</li>
 <li>no results</li>
 <img width="1907" height="317" alt="image" src="https://github.com/user-attachments/assets/fdb539aa-3d22-4dbd-9bef-2e1900c67adc" />
 <li>Troubleshooting: either we have not generated any brute force attempts yet or the fieldname is incorrect</li>
+<li>Test the fieldname: 4624 (successful logon) should generate data but no results within the last 24 hours</li>
+<img width="1900" height="323" alt="image" src="https://github.com/user-attachments/assets/27bed893-dcca-4b7c-8ce1-f3d21326b981" />
+<li>Let's do a deep dive: remove the EventID and press enter. We are now getting event details</li>
+<img width="1897" height="785" alt="image" src="https://github.com/user-attachments/assets/9f12b741-4943-44ff-8289-821fff1fb82a" />
+<li>Let's expand the first event to see the details and fields</li>
+<img width="1637" height="810" alt="image" src="https://github.com/user-attachments/assets/28867505-c129-4944-bf51-919b791dec35" />
+<li>we're looking for the field that contains the event codes. VIOLA! It's EventCode and not EventID</li>
+<img width="1475" height="478" alt="image" src="https://github.com/user-attachments/assets/68a22e05-86da-45ea-a167-efa1a46bb90c" />
+<li>now update the search using EventCode=4625, and it is case-sensitive. And VIOLA!!</li>
+<img width="1887" height="852" alt="image" src="https://github.com/user-attachments/assets/bf22b0c0-32a2-45e1-bbfc-28e405aa609c" />
+<li>And let's double check by generating some failed login attemps via RDP (4 times)</li>
+<img width="828" height="455" alt="image" src="https://github.com/user-attachments/assets/3b868441-22a1-4317-9ad8-2e4fefd5b92a" />
+<li>and here those brute force attempts</li>
+<img width="1681" height="770" alt="image" src="https://github.com/user-attachments/assets/f4ef9e67-d9a8-4535-8e44-a5c18131347c" />
+
+
+
+
+
+
 
 
 
