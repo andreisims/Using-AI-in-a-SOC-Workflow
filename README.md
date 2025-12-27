@@ -245,6 +245,23 @@ Windows Server 2019, 2022, 2025'</li>
 <li>to install it, we'll be using Docker. Type 'sudo apt install docker.io', and enter 'y'</li>
 <img width="1171" height="386" alt="image" src="https://github.com/user-attachments/assets/c3b0c965-221f-4bc5-a995-8ab731d39675" />
 <img width="1281" height="565" alt="image" src="https://github.com/user-attachments/assets/8dab4e89-2561-4e94-a0fc-d2776ec51efd" />
+<li>and just to be safe, let's do 'sudo apt-get update && sudo apt-get upgrade -y'. Then 'sudo apt install docker-compose'</li>
+<img width="1521" height="350" alt="image" src="https://github.com/user-attachments/assets/98b01a18-10a9-4327-9319-5c591844e4c9" />
+<li>now we can install n8n. Make a new directory: mkdir n8n-compose. Then change into the new directory: cd n8n-compose</li>
+<img width="1342" height="192" alt="image" src="https://github.com/user-attachments/assets/577a702d-63bc-4615-aa38-13cae9ec1225" />
+<li>now create the docker-compose file: sudo nano docker-compose.yaml</li>
+<img width="1091" height="463" alt="image" src="https://github.com/user-attachments/assets/77bf5117-c6a8-4dec-bc91-27b47e323b52" />
+<li>be sure to enter the IP address for your n8n/Ubuntu VM, and that the tabs are aligned. Save and exit nano</li>
+<li>now let's pull a docker image for n8n: sudo docker-compose pull</li>
+<img width="1002" height="278" alt="image" src="https://github.com/user-attachments/assets/e534a615-9387-499e-95d8-7a50ba4d9140" />
+<li>and now: 'sudo docker-compose up -d', so that we can access our n8n instance</li>
+<img width="1001" height="145" alt="image" src="https://github.com/user-attachments/assets/180e82ea-fb19-45a0-9515-ec3f11771966" />
+<li>in a new browser, type your n8n IP address followed by port 5678</li>
+<li>FAILURE TO LAUNCH!</li>
+<img width="1480" height="772" alt="image" src="https://github.com/user-attachments/assets/dca02942-7534-4e56-a309-1b836b4fd125" />
+
+
+
 
 
 
