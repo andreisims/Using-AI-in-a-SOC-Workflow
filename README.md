@@ -259,6 +259,31 @@ Windows Server 2019, 2022, 2025'</li>
 <li>in a new browser, type your n8n IP address followed by port 5678</li>
 <li>FAILURE TO LAUNCH!</li>
 <img width="1480" height="772" alt="image" src="https://github.com/user-attachments/assets/dca02942-7534-4e56-a309-1b836b4fd125" />
+<li>So let's do some troubleshooting.</li>
+<li>Is there a firewall blocking access? Type: sudo ufw status</li>
+<img width="938" height="132" alt="image" src="https://github.com/user-attachments/assets/b5bc8515-8664-43e9-bf17-40958004c97d" />
+<li>files and permissions check. Type: ll</li>
+<img width="1206" height="212" alt="image" src="https://github.com/user-attachments/assets/be46379f-9751-4001-82f3-b032afc4fd5c" />
+<li>The permissions for the n8n.data file is under root. So we'll change that. Type: sudo chown -R 1000:1000 n8n_data/</li>
+<img width="1097" height="203" alt="image" src="https://github.com/user-attachments/assets/6043d11b-ab32-4182-8880-943b0ecfb710" />
+<li>now let's essentially restart it. Type: sudo docker-compose down. Then sudo docker-compose up -d</li>
+<img width="1012" height="183" alt="image" src="https://github.com/user-attachments/assets/10823225-f35a-4109-8e51-5d9e62d4d268" />
+<li>and reload the page.....GOOOOOAAAAAAAALLLLL!</li>
+<img width="1760" height="860" alt="image" src="https://github.com/user-attachments/assets/14cf3357-c08a-4759-a24b-c9a664a962f9" />
+<li>complete the form and all the information can be fictional. Just remember the password</li>
+<img width="902" height="640" alt="image" src="https://github.com/user-attachments/assets/784be2eb-c643-42d9-b3d7-f832686d90d1" />
+<li>and again, enter anything that you like</li>
+<img width="891" height="655" alt="image" src="https://github.com/user-attachments/assets/fc9781fd-08cc-43fc-9c77-a8999d847506" />
+<img width="963" height="911" alt="image" src="https://github.com/user-attachments/assets/5d9946ad-eba9-4c63-bc15-6e9b5f1629e1" />
+
+### Create an Alert in Splunk that the n8n Webhook Can Catch
+
+
+
+
+
+
+
 
 
 
