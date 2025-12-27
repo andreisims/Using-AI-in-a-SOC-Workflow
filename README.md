@@ -139,7 +139,18 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <img width="1221" height="812" alt="image" src="https://github.com/user-attachments/assets/ebd9e491-2707-455d-b6df-44e73e6fd7cc" />
 <li>type ipconfig to obtain the win10 IP address</li>
 <img width="943" height="380" alt="image" src="https://github.com/user-attachments/assets/c2e1030d-ddf7-4937-a149-976fe6cdfeba" />
-<li>notate it as we will be getting the other IPs as well</li>
+<li>notate it and enter ifconfig on the n8n server to get it's IP</li>
+<img width="710" height="197" alt="image" src="https://github.com/user-attachments/assets/1c1b31a2-17be-4cce-9f1c-ec706cb5fc53" />
+<li>PERSONAL PREFERENCE: you can either use RDP to connect to the windows machine or work directly in the VM. I'm using RDP on my host machie to connect it</li>
+<li>enter the vm's IP and then log in</li>
+<img width="716" height="340" alt="image" src="https://github.com/user-attachments/assets/b0b08d62-c0ac-49f8-809a-9da24ab68be5" />
+<img width="626" height="461" alt="image" src="https://github.com/user-attachments/assets/8e0d7658-0ac0-4327-b109-b0cedd70b456" />
+<img width="536" height="507" alt="image" src="https://github.com/user-attachments/assets/d32e245d-50a8-493b-995b-98c5862f5e9e" />
+
+
+
+
+
 
 
 
