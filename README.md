@@ -307,6 +307,13 @@ Windows Server 2019, 2022, 2025'</li>
 <img width="1066" height="842" alt="image" src="https://github.com/user-attachments/assets/bae9d4f0-e2e0-4b98-bac8-d70e047292e5" />
 <li>click Save and View Alert</li>
 <img width="1292" height="295" alt="image" src="https://github.com/user-attachments/assets/61f1c6c6-ed7d-4b5b-b75f-bd6188dea832" />
+<li>back to n8n and click Listen for Test Event......and TOUCHDOWN!!</li>
+<img width="1805" height="685" alt="image" src="https://github.com/user-attachments/assets/073061e0-fa31-4d9b-8ae1-bb668042b306" />
+
+### Now Let's Build The Automation in n8n
+<li>ALERT: credits are needed for OpenAI</li>
+
+
 
 
 
