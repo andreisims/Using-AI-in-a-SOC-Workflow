@@ -113,6 +113,27 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <li>now enter 'sudo apt-get update && sudo apt-get upgrade -y'</li>
 <img width="1323" height="630" alt="image" src="https://github.com/user-attachments/assets/95d821da-3992-461f-a754-89283c62f0c0" />
 
+<li>Back to the windows installation</li>
+<img width="1207" height="655" alt="image" src="https://github.com/user-attachments/assets/4c67241d-590b-45b3-9a05-eea7b46933af" />
+<li>select the personal use option, then offline account, and then limited experience</li>
+<img width="1102" height="512" alt="image" src="https://github.com/user-attachments/assets/960a9baa-2d2b-49c5-a62b-408d4fffbac5" />
+<img width="1145" height="713" alt="image" src="https://github.com/user-attachments/assets/2552ebd9-a35a-460c-affd-2244d2e4cc16" />
+<li>create your personal, details can be fictional but remember/write down the password</li>
+<img width="1127" height="710" alt="image" src="https://github.com/user-attachments/assets/c3de7b26-7803-4f2a-931b-c105d84761b9" />
+<img width="1155" height="652" alt="image" src="https://github.com/user-attachments/assets/1d01a526-500e-4909-a968-acd1e5f3f26c" />
+<li>skip the customization and Cortana options</li>
+<img width="1121" height="658" alt="image" src="https://github.com/user-attachments/assets/3f325959-5fd0-479f-995c-597a7c0f35ce" />
+<img width="1192" height="753" alt="image" src="https://github.com/user-attachments/assets/f25e4865-c858-4bd1-ac8f-e6587c8fc217" />
+
+
+
+
+
+
+
+
+
+
 
 
 
