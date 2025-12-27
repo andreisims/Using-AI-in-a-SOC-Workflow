@@ -184,6 +184,12 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <li>the last option we need to address is to ensure that splunk starts on reboot. Type 'cd bin' then 'ls'</li>
 <img width="1436" height="752" alt="image" src="https://github.com/user-attachments/assets/74b319d5-1bb6-4fe9-9937-394c8fec341b" />
 <li>type 'sudo ./splunk enable boot-start -user splunk'</li>
+<img width="1210" height="148" alt="image" src="https://github.com/user-attachments/assets/82df6d25-1c1e-45bf-a9fb-4d2026516bde" />
+<li>with that, splunk should now start whenever the VM is started. We should also be able to access the GUI using splunk's IP and the default port of 8000. Viola!</li>
+<img width="1766" height="780" alt="image" src="https://github.com/user-attachments/assets/ec1243c8-580a-446d-af29-72e6ebf97a8c" />
+
+
+
 
 
 
