@@ -225,7 +225,27 @@ Windows Server 2019, 2022, 2025'</li>
 <li>We currently do not have an inputs.conf file (which is needed for the windows VM to send telemetry to Splunk)</li>
 <li>link to the configurations file: https://drive.google.com/file/d/1-qYp4oCrT1BqhG1oaprQfkFhgFIHiWEm/view. It can also be viewed below</li>
 <img width="906" height="618" alt="image" src="https://github.com/user-attachments/assets/951afced-4621-4b5f-b6d2-8e9b7795288b" />
-<li>be sure to use your index name everywhere you see 'index = mydfir-project'</li>
+<li>be sure to use your index name everywhere you see 'index = mydfir-project', then paste into the local directory</li>
+<img width="1540" height="440" alt="image" src="https://github.com/user-attachments/assets/cb811f81-f7bd-4b34-bbf1-d958ce5fd9b3" />
+<li>also on the Windows VM: go to Services> run as administratior> SplunkForwarder</li>
+<img width="1561" height="537" alt="image" src="https://github.com/user-attachments/assets/cb995398-7ca7-4468-a519-f77195d3a2cf" />
+<li>double-click> 'Log on' tab, the select 'Local System account'. Apply, then OK</li>
+<img width="1106" height="463" alt="image" src="https://github.com/user-attachments/assets/1bd2e936-ea8c-4245-812a-67baebd2bed5" />
+<li>now right-click and restart the SplunkForwarder</li>
+<img width="1207" height="413" alt="image" src="https://github.com/user-attachments/assets/5e8a9ddf-684e-48de-b114-a27d9da55591" />
+
+<li>Let's confirm if the Windows VM is now sending telemetry to Splunk. go to the splunk dashboard> Apps> Search and Reporting> skip the Welcome message> then type 'index= (your index name here)'. keep the 24hr time range option and click magnifying glass</li>
+<img width="1906" height="206" alt="image" src="https://github.com/user-attachments/assets/3e543b68-6de0-41d8-903f-b224f0b61d4c" />
+<li>Viola! Telemetry</li>
+<img width="1783" height="767" alt="image" src="https://github.com/user-attachments/assets/4661c6b4-283a-41fd-8738-994a154461d9" />
+
+
+
+
+
+
+
+
 
 
 
