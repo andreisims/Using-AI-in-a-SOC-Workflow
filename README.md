@@ -200,6 +200,16 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <img width="1611" height="581" alt="image" src="https://github.com/user-attachments/assets/4e4b5526-a0bd-49c4-a904-19cd539d1906" />
 <li>select install for the Splunk Add-on for Microsoft Windows and then sign in with your Splunk account details (the one used to download Splunk from its website)</li>
 <img width="785" height="337" alt="image" src="https://github.com/user-attachments/assets/5687a636-4e3a-4d3d-a840-7da77efca38a" />
+<li>with the updates completed, take a snapshot for the Splunk VM (VM> Snapshot> take snapshot)</li>
+
+<li>Next, let's configure the Windows VM to send its telemetry to Splunk. Open Remote Desktop on your host PC, connect to the Windows VM, and then ping the Splunk VM (success! Windows can reach Splunk)</li>
+<img width="1295" height="507" alt="image" src="https://github.com/user-attachments/assets/fec384b3-88c1-44d5-b088-e8a5bece5a0e" />
+<li>From the splunk.com site> Trials and Downloads> Universal Forwarder> start download</li>
+<img width="1386" height="532" alt="image" src="https://github.com/user-attachments/assets/78ff4c52-be63-4a8e-a262-b6610b1eb375" />
+<li>select 'Windows 10, 11
+Windows Server 2019, 2022, 2025'</li>
+
+
 
 
 
