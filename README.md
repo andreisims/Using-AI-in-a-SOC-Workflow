@@ -210,6 +210,22 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 Windows Server 2019, 2022, 2025'</li>
 <li>Download now</li>
 <img width="1337" height="526" alt="image" src="https://github.com/user-attachments/assets/de403799-474b-4c0b-89e1-e7012350e336" />
+<li>copy download from your host PC and paste it in the Windows VM</li>
+<img width="1004" height="141" alt="image" src="https://github.com/user-attachments/assets/b5111c99-0ade-456b-9eed-0c10fa9cfe43" />
+<img width="1287" height="487" alt="image" src="https://github.com/user-attachments/assets/b4595eac-f73b-44f7-9986-39d35fbe5f94" />
+<li>open the forwarder and check the license agreement and make sure the 'on-premise' instance is selected. Next</li>
+<img width="1108" height="557" alt="image" src="https://github.com/user-attachments/assets/4290feeb-e953-420d-8666-455f7c9bb3d3" />
+<li>uncheck the 'random password' option and then create a profile. Next</li>
+<img width="991" height="512" alt="image" src="https://github.com/user-attachments/assets/3d08fefe-a349-44a2-9a46-7767ed0adbf4" />
+<li>click next for the Deployment Server (we dont have one). Enter the Splunk VM IP address for the Receiver Indexer and the default port of 9997</li>
+<img width="1002" height="517" alt="image" src="https://github.com/user-attachments/assets/b4271d02-21c8-42b1-9e0b-70ce3345825d" />
+
+
+
+
+
+
+
 
 
 
