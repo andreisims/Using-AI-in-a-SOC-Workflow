@@ -150,6 +150,10 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <li>Let's take a snapshot of the working devices</li>
 <li>select 'VM', Snapshot, Take snapshot</li>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d626851-82b7-454c-84ea-0f07f47efcd7" />
+<li>provide a name for the snapshot, and select take snapshot</li>
+<img width="887" height="455" alt="image" src="https://github.com/user-attachments/assets/27d20e0a-8595-4385-8481-8dd935ada51b" />
+
+
 
 
 
