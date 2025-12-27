@@ -217,8 +217,10 @@ Windows Server 2019, 2022, 2025'</li>
 <img width="1108" height="557" alt="image" src="https://github.com/user-attachments/assets/4290feeb-e953-420d-8666-455f7c9bb3d3" />
 <li>uncheck the 'random password' option and then create a profile. Next</li>
 <img width="991" height="512" alt="image" src="https://github.com/user-attachments/assets/3d08fefe-a349-44a2-9a46-7767ed0adbf4" />
-<li>click next for the Deployment Server (we dont have one). Enter the Splunk VM IP address for the Receiver Indexer and the default port of 9997</li>
+<li>click next for the Deployment Server (we dont have one). Enter the Splunk VM IP address for the Receiver Indexer and the default port of 9997. Next, then install, and Finish</li>
 <img width="1002" height="517" alt="image" src="https://github.com/user-attachments/assets/b4271d02-21c8-42b1-9e0b-70ce3345825d" />
+<img width="1137" height="543" alt="image" src="https://github.com/user-attachments/assets/fa46ad92-4329-40fc-b457-48d19c6593d1" />
+
 
 
 
