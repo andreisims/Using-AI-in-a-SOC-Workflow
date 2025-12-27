@@ -163,6 +163,15 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <img width="1297" height="421" alt="image" src="https://github.com/user-attachments/assets/fe2bcb53-8310-4701-8526-c10304e6bf59" />
 <li>copy and paste it into the command line</li>
 <img width="1513" height="175" alt="image" src="https://github.com/user-attachments/assets/f6d3b49d-44a5-40cc-b180-a2d5a23d708c" />
+<img width="1465" height="318" alt="image" src="https://github.com/user-attachments/assets/2d379cf9-1ff3-4b7e-a12a-1adfbb555f0a" />
+<li>Success!</li>
+<img width="1092" height="242" alt="image" src="https://github.com/user-attachments/assets/f6ab74d7-2f41-477a-b067-7ab08fb918d9" />
+<li>now that it's downloaded, let's install it: sudo dpkg -i splunk-10.0.2-e2d18b4767e9-linux-amd64.deb</li>
+<img width="1222" height="218" alt="image" src="https://github.com/user-attachments/assets/a7e5e7b8-4a37-443c-9982-edd773bf8c08" />
+
+
+
+
 
 
 
