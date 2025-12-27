@@ -168,6 +168,28 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <img width="1092" height="242" alt="image" src="https://github.com/user-attachments/assets/f6ab74d7-2f41-477a-b067-7ab08fb918d9" />
 <li>now that it's downloaded, let's install it: sudo dpkg -i splunk-10.0.2-e2d18b4767e9-linux-amd64.deb</li>
 <img width="1222" height="218" alt="image" src="https://github.com/user-attachments/assets/a7e5e7b8-4a37-443c-9982-edd773bf8c08" />
+<li>we can resolve this error</li>
+<img width="1073" height="76" alt="image" src="https://github.com/user-attachments/assets/9f7d3857-2c07-4ac8-8dd1-4aa60a1ae08b" />
+<li>go to the splunk directory (cd /opt/splunk/) and the 'll'</li>
+<img width="1305" height="521" alt="image" src="https://github.com/user-attachments/assets/35d7bea2-5ae9-4f02-8397-3907afd0bcc5" />
+<li>we need to change the user from splunk (sudo -u splunk bash), then change back to the splunk directory (cd /opt/splunk/), then to the bin directory (cd bin), and then 'ls' </li>
+<img width="1525" height="766" alt="image" src="https://github.com/user-attachments/assets/31deb881-ae39-4853-b477-875dc6fa16e4" />
+<li>now type: ./splunk start</li>
+<img width="1295" height="672" alt="image" src="https://github.com/user-attachments/assets/12d4e010-3dbc-48b9-a180-2076eb6360c5" />
+<li>hold the space key until you get to the end of the file and select 'y' for yes</li>
+<img width="1002" height="307" alt="image" src="https://github.com/user-attachments/assets/42116767-bcb8-4592-919c-f894fce5c872" />
+<li>we will use the same username and password, for simplicity</li>
+<img width="1053" height="156" alt="image" src="https://github.com/user-attachments/assets/fbe54c78-eab7-45f7-81df-877b987c3694" />
+<img width="1202" height="627" alt="image" src="https://github.com/user-attachments/assets/62242199-34d8-40a8-b218-de617d24e549" />
+<li>the last option we need to address is to ensure that splunk starts on reboot. Type 'cd bin' then 'ls'</li>
+<img width="1436" height="752" alt="image" src="https://github.com/user-attachments/assets/74b319d5-1bb6-4fe9-9937-394c8fec341b" />
+<li>type 'sudo ./splunk enable boot-start -user splunk'</li>
+
+
+
+
+
+
 
 
 
