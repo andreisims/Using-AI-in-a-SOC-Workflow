@@ -1,4 +1,4 @@
-# Using-AI-in-a-SOC-Workflow
+# Using AI in a SOC Workflow
 
 ### This will be a project that will engineer an automated security orchestration and response (SOAR) workflow deployed on a virtual SOC lab using VMware. 
 Splunk with n8n will automate security alert ingestion, enrichment, and workflow execution, reducing manual analyst triage
