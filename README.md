@@ -208,6 +208,9 @@ Splunk with n8n will automate security alert ingestion, enrichment, and workflow
 <img width="1386" height="532" alt="image" src="https://github.com/user-attachments/assets/78ff4c52-be63-4a8e-a262-b6610b1eb375" />
 <li>select 'Windows 10, 11
 Windows Server 2019, 2022, 2025'</li>
+<li>Download now</li>
+<img width="1337" height="526" alt="image" src="https://github.com/user-attachments/assets/de403799-474b-4c0b-89e1-e7012350e336" />
+
 
 
 
