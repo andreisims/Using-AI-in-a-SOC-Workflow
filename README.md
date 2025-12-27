@@ -220,6 +220,14 @@ Windows Server 2019, 2022, 2025'</li>
 <li>click next for the Deployment Server (we dont have one). Enter the Splunk VM IP address for the Receiver Indexer and the default port of 9997. Next, then install, and Finish</li>
 <img width="1002" height="517" alt="image" src="https://github.com/user-attachments/assets/b4271d02-21c8-42b1-9e0b-70ce3345825d" />
 <img width="1137" height="543" alt="image" src="https://github.com/user-attachments/assets/fa46ad92-4329-40fc-b457-48d19c6593d1" />
+<li>on the Windows VM, go to This PC> the C: drive> Program Files> Splunk Universal Forwarder> Continue> etc> system> local</li>
+<img width="1463" height="365" alt="image" src="https://github.com/user-attachments/assets/59160b7b-bfe2-4a19-8614-c17a8aa4ce38" />
+<li>We currently do not have an inputs.conf file (which is needed for the windows VM to send telemetry to Splunk)</li>
+<li>link to the configurations file: https://drive.google.com/file/d/1-qYp4oCrT1BqhG1oaprQfkFhgFIHiWEm/view. It can also be viewed below</li>
+<img width="906" height="618" alt="image" src="https://github.com/user-attachments/assets/951afced-4621-4b5f-b6d2-8e9b7795288b" />
+<li>be sure to use your index name everywhere you see 'index = mydfir-project'</li>
+
+
 
 
 
