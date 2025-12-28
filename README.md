@@ -314,8 +314,20 @@ Windows Server 2019, 2022, 2025'</li>
 <li>ALERT: credits are needed for OpenAI</li>
 <li>First: let's disable the alert for now in Splunk</li>
 <img width="937" height="272" alt="image" src="https://github.com/user-attachments/assets/834c411d-d59f-4b1e-9043-623072c0a77f" />
-<li>On n8n, the workflow has been pinned for future use</li>
+<li>On n8n, the workflow has been pinned so that we can continue to use so that we don't have to retrigger the workflow</li>
 <img width="1188" height="465" alt="image" src="https://github.com/user-attachments/assets/ec02dbb4-9dcd-479f-bbab-74cdf6be48cb" />
+<li>In the upper-right corner, click the + and search for chatgpt</li>
+<img width="1797" height="666" alt="image" src="https://github.com/user-attachments/assets/053067a7-58e0-457a-b038-aaa7c33fb5b0" />
+<li>click openAI> message a model> create new credential</li>
+<img width="1346" height="615" alt="image" src="https://github.com/user-attachments/assets/026b9ac0-eb46-4708-9600-028be8a5d77f" />
+<li>For that, go to https://openai.com/ and API Platform. Then sign-in or sign-up</li>
+<img width="1760" height="704" alt="image" src="https://github.com/user-attachments/assets/eca8c38b-5d56-4595-b021-fb11d0749d43" />
+<img width="1895" height="891" alt="image" src="https://github.com/user-attachments/assets/4e588b46-be37-4927-a771-f4817e159214" />
+
+
+
+
+
 
 
 
