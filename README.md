@@ -323,6 +323,16 @@ Windows Server 2019, 2022, 2025'</li>
 <li>For that, go to https://openai.com/ and API Platform. Then sign-in or sign-up</li>
 <img width="1760" height="704" alt="image" src="https://github.com/user-attachments/assets/eca8c38b-5d56-4595-b021-fb11d0749d43" />
 <img width="1895" height="891" alt="image" src="https://github.com/user-attachments/assets/4e588b46-be37-4927-a771-f4817e159214" />
+<li>select 'Start Building' and provide an organization name</li>
+<img width="1268" height="527" alt="image" src="https://github.com/user-attachments/assets/c262abf2-7fba-4ba7-a560-646fc50ad0a3" />
+<li>Now generate the API</li>
+<img width="1277" height="607" alt="image" src="https://github.com/user-attachments/assets/83711a72-e86f-42e2-ab5c-ac1e4e9ceaf7" />
+<li>copy and paste the key into the n8n instance. click Save</li>
+<img width="1518" height="857" alt="image" src="https://github.com/user-attachments/assets/3de8a237-727e-4c37-8528-66f97c3857d2" />
+
+
+
+
 
 
 
