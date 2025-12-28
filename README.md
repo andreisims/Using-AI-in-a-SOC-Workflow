@@ -329,6 +329,11 @@ Windows Server 2019, 2022, 2025'</li>
 <img width="1277" height="607" alt="image" src="https://github.com/user-attachments/assets/83711a72-e86f-42e2-ab5c-ac1e4e9ceaf7" />
 <li>copy and paste the key into the n8n instance. click Save</li>
 <img width="1518" height="857" alt="image" src="https://github.com/user-attachments/assets/3de8a237-727e-4c37-8528-66f97c3857d2" />
+<img width="1252" height="592" alt="image" src="https://github.com/user-attachments/assets/4988d2c1-c570-4026-9aef-88ff35ef7dce" />
+<li>you will need to add billing details</li>
+<img width="1318" height="686" alt="image" src="https://github.com/user-attachments/assets/4c6fc616-1963-4814-888a-6ed285aa2256" />
+
+
 
 
 
