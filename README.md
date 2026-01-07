@@ -332,6 +332,13 @@ Windows Server 2019, 2022, 2025'</li>
 <img width="1252" height="592" alt="image" src="https://github.com/user-attachments/assets/4988d2c1-c570-4026-9aef-88ff35ef7dce" />
 <li>you will need to add billing details</li>
 <img width="1318" height="686" alt="image" src="https://github.com/user-attachments/assets/4c6fc616-1963-4814-888a-6ed285aa2256" />
+<li>once that's done, select the $5 minimum and deselect the auto-billing</li>
+<li>in n8n, select your prefered model (I'm using GPT 4.1). For Role, select Assistant (how GPT will behave). For the Prompt, you can create your own or use the following: </li>
+<img width="1412" height="203" alt="image" src="https://github.com/user-attachments/assets/ea10615f-bde7-42b3-8234-3d8b14ae9dc2" />
+<img width="1755" height="842" alt="image" src="https://github.com/user-attachments/assets/bb55dd8b-9906-4213-86bf-26cfd4797e02" />
+
+
+
 
 
 
