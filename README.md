@@ -353,6 +353,18 @@ Windows Server 2019, 2022, 2025'</li>
 <img width="1742" height="517" alt="image" src="https://github.com/user-attachments/assets/0e406f06-47d3-41a0-ab91-d709df93ab6f" />
 <li>Null is preventing any filtering in the results. E.g., "give me all the results". And 2 represents the indentation level in the ouput</li>
 <li>Now let's connect our workflow to Slack. Sign-in or create an account here: https://slack.com/</li>
+<li>once you have created an account, select 'start with limited features'</li>
+<li>create a new channel, name it (Alerts), and keep the 'public' visibility</li>
+<img width="1052" height="670" alt="image" src="https://github.com/user-attachments/assets/531e2dfb-6025-4071-a303-bdb05842c038" />
+<li>back on n8n, select '+', search for slack, and select it</li>
+<img width="1432" height="621" alt="image" src="https://github.com/user-attachments/assets/766b367b-cf6d-4906-9cd2-398fae6210e0" />
+<li>under Message Actions, select Send a Message</li>
+<img width="1235" height="695" alt="image" src="https://github.com/user-attachments/assets/94aabc36-b138-45b5-81f1-96e9526bc08d" />
+<li>under the Parameters, select Create New Credential</li>
+<img width="787" height="214" alt="image" src="https://github.com/user-attachments/assets/f22ba075-dded-4544-bf29-23826c48bff8" />
+
+
+
 
 
 
