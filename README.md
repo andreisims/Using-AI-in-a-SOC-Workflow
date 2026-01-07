@@ -336,6 +336,9 @@ Windows Server 2019, 2022, 2025'</li>
 <li>in n8n, select your prefered model (I'm using GPT 4.1). For Role, select Assistant (how GPT will behave). For the Prompt, you can create your own or use the following: </li>
 <img width="1412" height="203" alt="image" src="https://github.com/user-attachments/assets/ea10615f-bde7-42b3-8234-3d8b14ae9dc2" />
 <img width="1755" height="842" alt="image" src="https://github.com/user-attachments/assets/bb55dd8b-9906-4213-86bf-26cfd4797e02" />
+<li>select Add Message, select 'System' under Role, and enter the following prompt (or create your own)</li>
+<img width="913" height="67" alt="image" src="https://github.com/user-attachments/assets/e26fee2e-4531-4069-acbf-ba9709ad9716" />
+
 
 
 
