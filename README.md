@@ -339,6 +339,23 @@ Windows Server 2019, 2022, 2025'</li>
 <li>select Add Message, select 'System' under Role, and enter the following prompt (or create your own)</li>
 <img width="913" height="67" alt="image" src="https://github.com/user-attachments/assets/e26fee2e-4531-4069-acbf-ba9709ad9716" />
 
+<li>Back on your workflow dashboard, the webhook is connected to the Message model</li>
+<img width="981" height="382" alt="image" src="https://github.com/user-attachments/assets/b04f2039-2129-4717-9ebb-e961f6d693fe" />
+<li>double-clicking it will show the Message model details:</li>
+<img width="1376" height="841" alt="image" src="https://github.com/user-attachments/assets/26d40d06-a3c2-481e-a787-9c7892f3fe61" />
+<li>select Add message again, select User for the Role. Type 'Alert:' and the drag the 'search_name: Test-Brute-Force' option on the left over to the prompt field</li>
+<img width="1255" height="368" alt="image" src="https://github.com/user-attachments/assets/a57b4797-3db2-4aa8-8c47-9658834f476c" />
+<li>expand the Prompt field by clicking here:</li>
+<img width="575" height="118" alt="image" src="https://github.com/user-attachments/assets/82485a1f-052c-41dd-86ed-daf341550ae6" />
+<li>we now want to enter the Alert Details, which is under the 'result' option on the left-hand side. Since there can be varying alerts (malware, brute force, etc.), we will make a JSON.stringify function</li>
+<img width="1742" height="402" alt="image" src="https://github.com/user-attachments/assets/19ae0608-d874-46af-a7c9-f25f635c0c42" />
+<li>drag the 'result' tab into the json function but be sure to enclose the result with braces</li>
+<img width="1840" height="525" alt="image" src="https://github.com/user-attachments/assets/2c98e1cb-a769-41a9-96ef-39259b1f80fe" />
+
+
+
+
+
 
 
 
