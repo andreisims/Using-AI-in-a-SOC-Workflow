@@ -362,6 +362,12 @@ Windows Server 2019, 2022, 2025'</li>
 <img width="1235" height="695" alt="image" src="https://github.com/user-attachments/assets/94aabc36-b138-45b5-81f1-96e9526bc08d" />
 <li>under the Parameters, select Create New Credential</li>
 <img width="787" height="214" alt="image" src="https://github.com/user-attachments/assets/f22ba075-dded-4544-bf29-23826c48bff8" />
+<li>select 'open docs'</li>
+<img width="1237" height="640" alt="image" src="https://github.com/user-attachments/assets/1cd89607-91e8-487f-92bb-d3ded9e3df35" />
+<li>and the details are outlined here:</li>
+<img width="967" height="792" alt="image" src="https://github.com/user-attachments/assets/e03b6fdc-718b-4cb6-b918-20591d06ad90" />
+
+
 
 
 
