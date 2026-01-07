@@ -349,8 +349,11 @@ Windows Server 2019, 2022, 2025'</li>
 <img width="575" height="118" alt="image" src="https://github.com/user-attachments/assets/82485a1f-052c-41dd-86ed-daf341550ae6" />
 <li>we now want to enter the Alert Details, which is under the 'result' option on the left-hand side. Since there can be varying alerts (malware, brute force, etc.), we will make a JSON.stringify function</li>
 <img width="1742" height="402" alt="image" src="https://github.com/user-attachments/assets/19ae0608-d874-46af-a7c9-f25f635c0c42" />
-<li>drag the 'result' tab into the json function but be sure to enclose the result with braces</li>
-<img width="1840" height="525" alt="image" src="https://github.com/user-attachments/assets/2c98e1cb-a769-41a9-96ef-39259b1f80fe" />
+<li>drag the 'result' tab into the json function and add 'null, 2'. But be sure to enclose the result with parentheses</li>
+<img width="1742" height="517" alt="image" src="https://github.com/user-attachments/assets/0e406f06-47d3-41a0-ab91-d709df93ab6f" />
+<li>Null is preventing any filtering in the results. E.g., "give me all the results". And 2 represents the indentation level in the ouput</li>
+<li>Now let's connect our workflow to Slack. Sign-in or create an account here: https://slack.com/</li>
+
 
 
 
