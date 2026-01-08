@@ -366,6 +366,20 @@ Windows Server 2019, 2022, 2025'</li>
 <img width="1237" height="640" alt="image" src="https://github.com/user-attachments/assets/1cd89607-91e8-487f-92bb-d3ded9e3df35" />
 <li>and the details are outlined here:</li>
 <img width="967" height="792" alt="image" src="https://github.com/user-attachments/assets/e03b6fdc-718b-4cb6-b918-20591d06ad90" />
+<li>click the 'Slack API page'link</li>
+<img width="1016" height="532" alt="image" src="https://github.com/user-attachments/assets/fd42f02b-0856-4a1b-a200-23c98cd13ad0" />
+<li>select 'Create an App', then 'From scratch', give the App a name, and select your Slack workspace</li>
+<img width="1303" height="341" alt="image" src="https://github.com/user-attachments/assets/84b12988-6a97-4c10-b826-1a5575897c97" />
+<img width="827" height="352" alt="image" src="https://github.com/user-attachments/assets/f2ecbbb2-83fe-4f86-bb5a-1a23f60a3cd3" />
+<img width="1135" height="457" alt="image" src="https://github.com/user-attachments/assets/78db4c91-b05a-4c8f-9dac-ab29a168d328" />
+
+
+
+
+
+
+
+
 
 
 
