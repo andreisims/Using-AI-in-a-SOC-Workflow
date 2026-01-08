@@ -368,10 +368,21 @@ Windows Server 2019, 2022, 2025'</li>
 <img width="967" height="792" alt="image" src="https://github.com/user-attachments/assets/e03b6fdc-718b-4cb6-b918-20591d06ad90" />
 <li>click the 'Slack API page'link</li>
 <img width="1016" height="532" alt="image" src="https://github.com/user-attachments/assets/fd42f02b-0856-4a1b-a200-23c98cd13ad0" />
-<li>select 'Create an App', then 'From scratch', give the App a name, and select your Slack workspace</li>
+<li>select 'Create an App', then 'From scratch', give the App a name, select your Slack workspace, then 'Create App'</li>
 <img width="1303" height="341" alt="image" src="https://github.com/user-attachments/assets/84b12988-6a97-4c10-b826-1a5575897c97" />
 <img width="827" height="352" alt="image" src="https://github.com/user-attachments/assets/f2ecbbb2-83fe-4f86-bb5a-1a23f60a3cd3" />
 <img width="1135" height="457" alt="image" src="https://github.com/user-attachments/assets/78db4c91-b05a-4c8f-9dac-ab29a168d328" />
+<img width="877" height="693" alt="image" src="https://github.com/user-attachments/assets/007669bc-5e3d-4719-88b1-50942bb6de33" />
+<li>the docs: In the left menu under Features, select OAuth & Permissions.</li>
+<img width="818" height="165" alt="image" src="https://github.com/user-attachments/assets/e1c4a33b-bb37-4587-a8bd-8b36a0367228" />
+
+<li>In the Scopes section, select appropriate scopes for your app. Click the Scopes link in the docs for the complete list </li>
+<img width="865" height="810" alt="image" src="https://github.com/user-attachments/assets/689fbeed-439b-4289-b276-4c2225515eae" />
+<li>copy and paste each scope that does not show as 'Not available' </li>
+
+
+
+
 
 
 
